@@ -1,0 +1,6 @@
+name: Enchanter
+version: ${project.version}
+main: me.zachary.enchanter.Enchanter
+api-version: 1.13
+authors: [ Zach_FR ]
+description: A enchanter gui to enchant your item
